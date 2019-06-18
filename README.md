@@ -11,6 +11,6 @@ mvcshoppingcart.sql
 
 4. change database credentials in applicationContext.xml 
 
-5.clean install tomcat7:run
+5. clean install tomcat7:run
 
 6. http://localhost:9090/login
